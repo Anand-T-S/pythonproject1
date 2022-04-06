@@ -1,0 +1,3 @@
+anu,26,kochi
+amal,22,calicut
+akhil,23,thrissur
